@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+
+#img1 {
+    height: 250px;
+    width: 400px;
+}
